@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1096742549126",
+    "project_id": "condohuatulco-ad560",
+    "storage_bucket": "condohuatulco-ad560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096742549126:android:da99eadaa2843140838307",
+        "android_client_info": {
+          "package_name": "com.grupoandrade.mobile.condomanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096742549126-9j4bj1ht1ebto8ouj7v5495oqnfqve89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCIZN_mTLSxMKmUNa2lD9woXoCDUg_C3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096742549126-9j4bj1ht1ebto8ouj7v5495oqnfqve89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096742549126-t4u6n856p8tertntuj4r0u3lpcjctq16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.grupoandrade.mobile.condomanager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
